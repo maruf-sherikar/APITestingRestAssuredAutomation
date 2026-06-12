@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba1fb613-5711-48d0-86ea-29fad44683ce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Tests/CRUD/POST/APIChaining.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Tests/CRUD/POST/BDDPost.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Tests/CRUD/POST/BDDPost.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,54 +47,55 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.DesignPatternInJava.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NonBDDStyle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RestAssuredTC.executor&quot;: &quot;Run&quot;,
-    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.APITestingRestAssuredAutomation [clean].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;TestNG.BDDPost.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/Maruf.sherikar.EXT.SVKMGRP/IdeaProjects/APITestingRestAssuredAutomation/src/test/java/org/example/Tests/CRUD/POST/testng-post.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/Maruf.sherikar.EXT.SVKMGRP/IdeaProjects/APITestingRestAssuredAutomation/src/test/java/org/example/testng/listenerDemo/testng - TC01.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/Maruf.sherikar.EXT.SVKMGRP/IdeaProjects/APITestingRestAssuredAutomation/src/test/java/org/example/testng/listenerDemo/testng - litenersDemo.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/Maruf.sherikar.EXT.SVKMGRP/IdeaProjects/APITestingRestAssuredAutomation/src/test/java/org/example/testng/parellelExecution/testng - parellel.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/Maruf.sherikar.EXT.SVKMGRP/IdeaProjects/APITestingRestAssuredAutomation/testng - allannotations.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/Maruf.sherikar.EXT.SVKMGRP/IdeaProjects/APITestingRestAssuredAutomation/testng - testng02.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/Maruf.sherikar.EXT.SVKMGRP/IdeaProjects/APITestingRestAssuredAutomation/testng - testng05.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/Maruf.sherikar.EXT.SVKMGRP/IdeaProjects/APITestingRestAssuredAutomation/testng - testng06-grouping.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/Maruf.sherikar.EXT.SVKMGRP/IdeaProjects/APITestingRestAssuredAutomation/testng-param-testng-11.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/Maruf.sherikar.EXT.SVKMGRP/IdeaProjects/APITestingRestAssuredAutomation/testng.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.NonBDDDELETE.testDeleterequest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.NonBDDPATCH.testPatchRequest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.NonBDDPUT.testPutRequest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.POSTReqTC.testPositive.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.SerializationExample.test.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.TestNG00.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.TestNG01.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.TestNG03.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.TestNG04.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.TestNG06.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.TestNG08.testcase1.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.TestNG09.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.TestNG10.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.TestNG11.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.TestNG12.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.TestNGGETRequestNonBDD.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.ddt.testLogin.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.ddt.testVWOPOST.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.demo.testPost.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.payloadUsingMap.testPOSTReq.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Maruf.sherikar.EXT.SVKMGRP/IdeaProjects/APITestingRestAssuredAutomation/src/test/java/org/example/misc/payloadmap/gson/example&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DesignPatternInJava.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
+    "Application.NonBDDStyle.executor": "Run",
+    "Application.RestAssuredTC.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.APITestingRestAssuredAutomation [clean].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.APIChaining.apiChainingTC.executor": "Run",
+    "TestNG.BDDPost.executor": "Run",
+    "TestNG.C:/Users/Maruf.sherikar.EXT.SVKMGRP/IdeaProjects/APITestingRestAssuredAutomation/src/test/java/org/example/Tests/CRUD/POST/testng-post.xml.executor": "Run",
+    "TestNG.C:/Users/Maruf.sherikar.EXT.SVKMGRP/IdeaProjects/APITestingRestAssuredAutomation/src/test/java/org/example/testng/listenerDemo/testng - TC01.xml.executor": "Run",
+    "TestNG.C:/Users/Maruf.sherikar.EXT.SVKMGRP/IdeaProjects/APITestingRestAssuredAutomation/src/test/java/org/example/testng/listenerDemo/testng - litenersDemo.xml.executor": "Run",
+    "TestNG.C:/Users/Maruf.sherikar.EXT.SVKMGRP/IdeaProjects/APITestingRestAssuredAutomation/src/test/java/org/example/testng/parellelExecution/testng - parellel.xml.executor": "Run",
+    "TestNG.C:/Users/Maruf.sherikar.EXT.SVKMGRP/IdeaProjects/APITestingRestAssuredAutomation/testng - allannotations.xml.executor": "Run",
+    "TestNG.C:/Users/Maruf.sherikar.EXT.SVKMGRP/IdeaProjects/APITestingRestAssuredAutomation/testng - testng02.xml.executor": "Run",
+    "TestNG.C:/Users/Maruf.sherikar.EXT.SVKMGRP/IdeaProjects/APITestingRestAssuredAutomation/testng - testng05.xml.executor": "Run",
+    "TestNG.C:/Users/Maruf.sherikar.EXT.SVKMGRP/IdeaProjects/APITestingRestAssuredAutomation/testng - testng06-grouping.xml.executor": "Run",
+    "TestNG.C:/Users/Maruf.sherikar.EXT.SVKMGRP/IdeaProjects/APITestingRestAssuredAutomation/testng-param-testng-11.xml.executor": "Run",
+    "TestNG.C:/Users/Maruf.sherikar.EXT.SVKMGRP/IdeaProjects/APITestingRestAssuredAutomation/testng.xml.executor": "Run",
+    "TestNG.NonBDDDELETE.testDeleterequest.executor": "Run",
+    "TestNG.NonBDDPATCH.testPatchRequest.executor": "Run",
+    "TestNG.NonBDDPUT.testPutRequest.executor": "Run",
+    "TestNG.POSTReqTC.testPositive.executor": "Run",
+    "TestNG.SerializationExample.test.executor": "Run",
+    "TestNG.TestNG00.executor": "Run",
+    "TestNG.TestNG01.executor": "Run",
+    "TestNG.TestNG03.executor": "Run",
+    "TestNG.TestNG04.executor": "Run",
+    "TestNG.TestNG06.executor": "Run",
+    "TestNG.TestNG08.testcase1.executor": "Run",
+    "TestNG.TestNG09.executor": "Run",
+    "TestNG.TestNG10.executor": "Run",
+    "TestNG.TestNG11.executor": "Run",
+    "TestNG.TestNG12.executor": "Run",
+    "TestNG.TestNGGETRequestNonBDD.executor": "Run",
+    "TestNG.ddt.testLogin.executor": "Run",
+    "TestNG.ddt.testVWOPOST.executor": "Run",
+    "TestNG.demo.testPost.executor": "Run",
+    "TestNG.payloadUsingMap.testPOSTReq.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Maruf.sherikar.EXT.SVKMGRP/IdeaProjects/APITestingRestAssuredAutomation/src/test/java/org/example/misc/payloadmap/gson/example",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Maruf.sherikar.EXT.SVKMGRP\IdeaProjects\APITestingRestAssuredAutomation\src\test\java\org\example\misc\payloadmap\gson\example" />
@@ -106,11 +109,19 @@
       <recent name="org.example.Tests.CRUD.GET" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.POSTReqTC.testPositive">
-    <configuration name="C:/Users/Maruf.sherikar.EXT.SVKMGRP/IdeaProjects/APITestingRestAssuredAutomation/src/test/java/org/example/testng/parellelExecution/testng - parellel.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.APIChaining.apiChainingTC">
+    <configuration name="APIChaining.apiChainingTC" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APITestingRestAssuredAutomation" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/org/example/testng/parellelExecution/testng - parellel.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Tests.CRUD.POST.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.Tests.CRUD.POST" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Tests.CRUD.POST.APIChaining" />
+      <option name="METHOD_NAME" value="apiChainingTC" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -191,11 +202,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.APIChaining.apiChainingTC" />
         <item itemvalue="TestNG.POSTReqTC.testPositive" />
         <item itemvalue="TestNG.SerializationExample.test" />
         <item itemvalue="TestNG.demo.testPost" />
         <item itemvalue="TestNG.payloadUsingMap.testPOSTReq" />
-        <item itemvalue="TestNG.C:/Users/Maruf.sherikar.EXT.SVKMGRP/IdeaProjects/APITestingRestAssuredAutomation/src/test/java/org/example/testng/parellelExecution/testng - parellel.xml" />
       </list>
     </recent_temporary>
   </component>
